@@ -1,5 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It gives suggestion while typing in text input.
 ## Available Scripts
 
 ## `git clone`
